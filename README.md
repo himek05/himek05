@@ -1,17 +1,11 @@
 # Hi there, I'm @himek05! 👋
 
 ## About Me
-I'm a 2nd year B.Tech student passionate about data science and web development. I love learning new technologies and applying them to solve real-world problems.
-
-## Interests
-- **Data Science**: Enthusiastic about machine learning, data analysis, and AI.
-- **Web Development**: Enjoy building interactive and responsive websites.
-- **C Programming**: Interested in exploring lower-level programming and system design.
+I'm a 3rd year B.Tech student passionate about data science. I love learning new technologies and applying them to solve real-world problems.
 
 ## Currently Learning
-- **Python**: Diving deep into Python for data science and automation.
-- **Java Servlets**: Developing web applications using Java servlet technology.
-
+- **Natural Language Processing**: Diving deep into NLP for data science and automation.
+  
 ## Projects
 - **Library Management System**: A Java servlet application to manage books in a library.
 - **Restro Website**: Creating a website to showcase and sell various food.
