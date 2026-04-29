@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech Graduate
-* 💼 Currently working as **AI Intern**
+* 💼 Currently working as **Data Analyst Intern**
 * 🌱 Learning **Deep Learning & NLP**
 * 🔭 Working on **YOLO-based Pothole Detection**
 * ⚡ Interested in building **real-world AI solutions**
